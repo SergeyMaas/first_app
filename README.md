@@ -1,4 +1,3 @@
-first_app
-=========
+# Ruby on Rails Tutorails: first application
 
-first application by tutorial
+This is start [*Ruby ruby*](http://yandex.ru/)
